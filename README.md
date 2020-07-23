@@ -1,11 +1,11 @@
 用法
-# 导入state-machine
-# 安装staruml 5.0
-# 新建uml文件
-## 初始状态名称必须为 none
-# 点击ccstate-machine 生成文件
-# 拖入生成脚本到编辑器
-# 使用
+1. 导入state-machine
+* 安装staruml 5.0
+* 新建uml文件
+** 初始状态名称必须为 none
+* 点击ccstate-machine 生成文件
+* 拖入生成脚本到编辑器
+* 使用
 ```js
 cc.Class({
 	extends: cc.Component,
