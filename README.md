@@ -3,6 +3,8 @@
 * 安装staruml 5.0
 * 新建uml文件
 ** 初始状态名称必须为 none
+![TestState](https://github.com/StevenCoober/ccstate-machine/blob/master/img/TestState.jpg)
+![ccTest](https://github.com/StevenCoober/ccstate-machine/blob/master/img/ccTest.png)
 * 点击ccstate-machine 生成文件
 * 拖入生成脚本到编辑器
 * 使用
