@@ -1,7 +1,7 @@
 用法
-# 导入state-machine
-# 安装staruml 5.0
-# 使用
+## 导入state-machine
+## 安装staruml 5.0
+## 使用
 ```js
 cc.Class({
 	extends: cc.Component,
