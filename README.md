@@ -1,5 +1,5 @@
 用法
-1. 导入state-machine
+* 导入state-machine
 * 安装staruml 5.0
 * 新建uml文件
 ** 初始状态名称必须为 none
