@@ -7,7 +7,7 @@ cc.Class({
 
 	onLoad() {
 		let TestStateComp = this.TestStateNode.getComponent("TestState");
-		TestStateNode.bindTargetActions(this);
+		TestStateComp.bindTargetActions(this);
 
 		this.teststatefsm = TestStateComp.fsm;
 	},
