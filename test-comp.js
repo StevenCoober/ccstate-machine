@@ -14,7 +14,7 @@ cc.Class({
 
 	// 第一步
     onEnterStep1(fsm, name, from, to, args) {
-       //cc.TestState.fsm.to_step2(); //第二步
+       fsm.to_step2(); //第二步
     },
 
     // 第二步
