@@ -1,8 +1,8 @@
 用法
 * 导入state-machine
 * 安装staruml 5.0
-* 新建uml文件
-** 初始状态名称必须为 none
+* 新建uml文件,初始状态名称必须为 none
+  测试工程 https://gitee.com/scober/ccstate-machine
 ![TestState](https://github.com/StevenCoober/ccstate-machine/blob/master/img/TestState.jpg)
 ![ccTest](https://github.com/StevenCoober/ccstate-machine/blob/master/img/ccTest.png)
 * 点击ccstate-machine 生成文件
